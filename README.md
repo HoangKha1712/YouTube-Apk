@@ -4,5 +4,7 @@
 
 Tải về và setup theo các bước.
 
+B1 => B2 = B3 => Thành công
+
 Chúc bạn thành công.
 
