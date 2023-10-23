@@ -8,7 +8,7 @@ B1 => B2 = B3 => Thành công
 
 Chúc bạn thành công.
 Chận quảng cáo youtube chome
-uBlock Origin
+uBlock Origin ( Bộ lọc của tui )
 
 youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
 
